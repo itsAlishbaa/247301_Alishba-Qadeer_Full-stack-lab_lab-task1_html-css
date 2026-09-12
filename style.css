@@ -10,3 +10,7 @@
     height: 80px;
     background: red;
 }
+
+.square:hover {
+    transform: translateX(60px);
+}
