@@ -4,3 +4,9 @@
     border-radius: 50%;
     background: #4a90d9;
 }
+
+.square {
+    width: 80px;
+    height: 80px;
+    background: red;
+}
